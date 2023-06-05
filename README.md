@@ -1,32 +1,23 @@
-# Design a Website for Server Side Processing
-
-## AIM:
+# AIM:
 To design a website to perform mathematical calculations in server side.
 
-## DESIGN STEPS:
+# DESIGN STEPS:
+# Step 1:
+Create a new django project and app.
 
-### Step 1:
+# Step 2:
+Make on changes in settings and create templates folder.
 
+# Step 3:
+Create a code for fronted of calculation using html and css and save it in templates.
 
+# Step 4:
+Give an url mapping an give a python code for calculating in views.
 
-### Step 2:
+# Step 5:
+Take a screenshot of the site and uploat it.
 
-
-
-### Step 3:
-
-
-
-### Step 4:
-
-
-
-### Step 5:
-
-
-
-### Step 6:
-
+# Step 6:
 Publish the website in the given URL.
 
 ## PROGRAM :
